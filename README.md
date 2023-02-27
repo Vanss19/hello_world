@@ -1,16 +1,9 @@
-# hello_world
+# Tugas 1 (initialize projek pertama)
 
-A new Flutter project.
+Matkul Workshop Pemrograman Perangkat Bergerak
 
-## Getting Started
+Nama    : Vanessa Florentina Patricia <br/>
+Kelas   : 2 D4 IT A <br/>
+NRP     : 3121600001
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="lib/hasil.jpg" width="200">
